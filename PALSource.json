@@ -14,7 +14,6 @@
     {
       "name": "Spotify t1",
       "bundleIdentifier": "com.example.myapp",
-      "marketplaceID": "0123456789",
       "developerName": "Boh",
       "subtitle": "Eveespotify",
       "localizedDescription": "Prova ad installare questo tipo di spotify.",
@@ -55,7 +54,6 @@
     {
       "name": "Spotify t2",
       "bundleIdentifier": "com.example.anotherapp",
-      "marketplaceID": "9876543210",
       "developerName": "Example Developer",
       "subtitle": "SpotifyC++.",
       "localizedDescription": "Prova ad installare quest'altro tipo di spotify.",
