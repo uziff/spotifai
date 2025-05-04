@@ -13,7 +13,7 @@
   "apps": [
     {
       "name": "Spotify t1",
-      "bundleIdentifier": "com.example.myapp",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "Boh",
       "subtitle": "Eveespotify",
       "localizedDescription": "Prova ad installare questo tipo di spotify.",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Spotify t2",
-      "bundleIdentifier": "com.example.anotherapp",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
       "developerName": "Example Developer",
       "subtitle": "SpotifyC++.",
       "localizedDescription": "Prova ad installare quest'altro tipo di spotify.",
