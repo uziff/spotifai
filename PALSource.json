@@ -12,7 +12,7 @@
   ],
   "apps": [
     {
-      "name": "My Example App",
+      "name": "Spotify t1",
       "bundleIdentifier": "com.example.myapp",
       "marketplaceID": "0123456789",
       "developerName": "Example Developer",
@@ -38,14 +38,6 @@
           "downloadURL": "https://example.com/myapp_v1.1.ipa",
           "localizedDescription": "New features and bug fixes.",
           "minOSVersion": "12.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2022-03-16T07:00:00-08:00",
-          "size": 10000000,
-          "downloadURL": "https://example.com/myapp_v1.0.ipa",
-          "localizedDescription": "Initial release."
         }
       ],
       "appPermissions": {
@@ -61,7 +53,7 @@
       }
     },
     {
-      "name": "Another Example App",
+      "name": "Spotify t2",
       "bundleIdentifier": "com.example.anotherapp",
       "marketplaceID": "9876543210",
       "developerName": "Example Developer",
