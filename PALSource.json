@@ -16,8 +16,8 @@
       "bundleIdentifier": "com.example.myapp",
       "marketplaceID": "0123456789",
       "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "subtitle": "Eveespotify",
+      "localizedDescription": "Prova ad installare questo tipo di spotify.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
       "tintColor": "#5CA399",
       "screenshots": [
@@ -58,7 +58,7 @@
       "marketplaceID": "9876543210",
       "developerName": "Example Developer",
       "subtitle": "Another awesome app.",
-      "localizedDescription": "This is another awesome app only available on AltStore.",
+      "localizedDescription": "Prova ad installare quest'altro tipo di spotify.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
       "tintColor": "#3660A2",
       "screenshots": {
