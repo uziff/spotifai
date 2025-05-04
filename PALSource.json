@@ -15,7 +15,7 @@
       "name": "Spotify t1",
       "bundleIdentifier": "com.example.myapp",
       "marketplaceID": "0123456789",
-      "developerName": "Example Developer",
+      "developerName": "Boh",
       "subtitle": "Eveespotify",
       "localizedDescription": "Prova ad installare questo tipo di spotify.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
@@ -35,7 +35,7 @@
           "buildVersion": "2",
           "date": "2022-05-01T09:00:00-08:00",
           "size": 20000000,
-          "downloadURL": "https://example.com/myapp_v1.1.ipa",
+          "downloadURL": "https://github.com/uziff/spotifai/raw/refs/heads/main/EeveeSpotify-5.9.6-9.0.40.ipa",
           "localizedDescription": "New features and bug fixes.",
           "minOSVersion": "12.0"
         }
@@ -57,7 +57,7 @@
       "bundleIdentifier": "com.example.anotherapp",
       "marketplaceID": "9876543210",
       "developerName": "Example Developer",
-      "subtitle": "Another awesome app.",
+      "subtitle": "SpotifyC++.",
       "localizedDescription": "Prova ad installare quest'altro tipo di spotify.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
       "tintColor": "#3660A2",
@@ -89,7 +89,7 @@
           "version": "1.2",
           "buildVersion": "3",
           "date": "2022-06-21T09:00:00-08:00",
-          "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+          "downloadURL": "https://github.com/uziff/spotifai/raw/refs/heads/main/SpotC++.v2.4.13_v9.0.40_ALTSTORESOURCE_ONLY.ipa",
           "localizedDescription": "Bug fixes and performance improvements.",
           "size": 81514,
           "minOSVersion": "13.0"
